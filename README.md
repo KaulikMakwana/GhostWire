@@ -123,7 +123,7 @@ You will see a `[+] New Agent Check-in` message on your C2 server console.
 
 ## Operator Commands
 
-![screenshot help](Pasted image 20250704223834.png)
+![screenshot help](GhostWire-Help.png)
 ## Directory Layout
 
 ```
