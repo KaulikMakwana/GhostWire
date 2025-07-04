@@ -3,7 +3,7 @@
 ![GhostWire](https://img.shields.io/badge/GhostWire-C2-blueviolet) ![Language](https://img.shields.io/badge/Language-Python-blue) ![Encryption](https://img.shields.io/badge/Encryption-AES--256--GCM-red)
 
 > on target machine : python3 agent.py 
-![[GhostWire.gif]]
+![ghostwire demo](GhostWire.gif)
 
 ---
 > **A modular, multi-session, and encrypted Command & Control (C2) framework built for learning and red team operations.**  
@@ -123,7 +123,7 @@ You will see a `[+] New Agent Check-in` message on your C2 server console.
 
 ## Operator Commands
 
-![[Pasted image 20250704223834.png]]
+![screenshot help](Pasted image 20250704223834.png)
 ## Directory Layout
 
 ```
