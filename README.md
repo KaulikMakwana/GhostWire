@@ -80,7 +80,7 @@ First, clone the repository and install the required dependencies.
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/GhostWire.git
+git clone https://github.com/KaulikMakwana/GhostWire.git
 cd GhostWire
 
 # Install dependencies
