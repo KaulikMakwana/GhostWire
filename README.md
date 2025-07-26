@@ -3,7 +3,10 @@
 ![GhostWire](https://img.shields.io/badge/GhostWire-C2-blueviolet) ![Language](https://img.shields.io/badge/Language-Python-blue) ![Encryption](https://img.shields.io/badge/Encryption-AES--256--GCM-red)
 
 > on target machine : python3 agent.py 
-![ghostwire demo](GhostWire.gif)
+
+<div align="center">
+ <img src="GhostWire.gif" alt="ghostwire demo" width="1000" height="900">
+</div>
 
 ---
 > **A modular, multi-session, and encrypted Command & Control (C2) framework built for learning and red team operations.**  
